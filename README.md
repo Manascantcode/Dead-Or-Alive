@@ -329,15 +329,24 @@ It was created for **academic learning, DAA practice, and Java programming pract
 
 ---
 
-# 👨‍💻 AUTHOR
+# 👥 CREDITS
 
 <div align="center">
 
-# 🚀 Manascan tcode
+## 🚀 Project Team
 
-### 💻 Computer Science Student
+### 👨‍💻 Manas
 
-**Java • DAA • Algorithms • Programming**
+### 👨‍💻 Anirudh
+
+### 👨‍💻 Debatra
+
+### 👨‍💻 Akhil
+
+---
+
+**🎮 Cube Logic Maze**  
+**Java • DAA • Algorithms • Game Development**
 
 </div>
 
